@@ -26,7 +26,7 @@ public class CalculadoraApp_v4 {
         num2 = null;
         operador = null;
         resultado = 0;
-         
+        
         encenderCalculadora();
         capturarTeclas();
     }
